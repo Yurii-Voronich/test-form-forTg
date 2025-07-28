@@ -1,4 +1,5 @@
 import axios from "axios";
+import "./style.css";
 const formEl = document.querySelector(".form");
 
 const onSubmit = async (e) => {
